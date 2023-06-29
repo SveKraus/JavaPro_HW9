@@ -27,7 +27,7 @@ public class Lesson11 {
                 j.append(words);
             } else {
                 j.append(words);
-                j.append(words);
+
             }
         }
         return j;
