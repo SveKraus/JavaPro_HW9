@@ -17,6 +17,24 @@ public class Lesson11 {
         System.out.println(text + translateToRussian);
     }
 
+    private static StringBuffer translation(TreeMap<String, String> translateToRussia, String text) {
+        String[] words = text.split("");
+        StringBuffer j = new StringBuffer();
+
+        for (String word : words) {
+            if (!translateToRussia.containsKey(word)) {
+                j.append(translateToRussia.get(word));
+                j.append(words);
+            } else {
+                j.append(words);
+                j.append(words);
+            }
+        }
+        return j;
+    }
+
+
+
 
 
     }
