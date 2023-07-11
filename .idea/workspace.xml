@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61194fd9-149c-422b-8091-e7e2cf7f03e4" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/src/lesson14/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson14/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessonLambda/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessonLambda/Text.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10/Citys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson10/Cities.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10/Route.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson10/Route.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,13 +36,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/ACER/IdeaProjects/homework-Java",
+    "last_opened_file_path": "C:/Users/ACER/IdeaProjects/Algorithms",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Route">
+  <component name="RunManager" selected="Application.lessonStreams">
     <configuration name="CheckBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HW10.CheckBrackets" />
       <module name="homeWork9" />
@@ -50,13 +52,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HW9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW9" />
-      <module name="homeWork9" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -74,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Letters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson10.Letters" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson14.Main" />
       <module name="homeWork9" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson10.*" />
+          <option name="PATTERN" value="lesson14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,13 +95,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lessonStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessonStreams" />
+      <module name="homeWork9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lessonStreams" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Route" />
         <item itemvalue="Application.Lesson11" />
         <item itemvalue="Application.CheckBrackets" />
-        <item itemvalue="Application.Letters" />
-        <item itemvalue="Application.HW9" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688068662340</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Initial commit">
+      <created>1688140228053</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1688140228053</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
