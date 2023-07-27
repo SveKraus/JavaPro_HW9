@@ -1,3 +1,5 @@
+package lesson10;
+
 import java.time.LocalDate;
 
 public class Task implements Comparable<Task> {
@@ -27,7 +29,7 @@ public class Task implements Comparable<Task> {
 
     @Override
     public String toString() {
-        return "Task{" +
+        return "lesson10.Task{" +
                 "id=" + id +
                 ", dateOfTask=" + dateOfTask +
                 ", priority='" + priority + '\'' +

@@ -1,3 +1,7 @@
+package lesson10;
+
+import lesson10.Task;
+
 import java.util.Comparator;
 
 public class TaskStatusPriorityComparator implements Comparator<Task> {
